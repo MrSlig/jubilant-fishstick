@@ -11,5 +11,6 @@ kramdown:
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: MrSlig's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: MrSlig's Jekyll playground
+description: Так могла бы выглядеть Ваша страница!
+lang: ru-RU
