@@ -1,2 +1,3 @@
-# jubilant-fishstick
-Jekyll playground
+# Главная страница {{ site.title }}
+Навишация:
+- [Архив](pages/archive.md)
